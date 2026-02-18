@@ -1,3 +1,4 @@
+#Collaborators : Anbuchelvan, Rathinakumar, Mourya, Suneethra, Yoshithaa, Narbavee
 annual_salary = float(input("Enter the starting salary: "))
 
 total_cost = 1000000
